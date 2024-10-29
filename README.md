@@ -11,3 +11,10 @@ it can be difficult to remember the anatomy of a script.
 i've sorted out what i'm going to do for each tutorial.
 i've started on my first tutorial.
 i did need a bit of assistance on making the scripts.
+
+29/10/2024
+my friend isaac is sick today. :-(
+i hope my unity project saved properly on one drive.
+it did. we just did our stand up meeting.
+and with paul's help i finished my first tutorial.
+starting on my second one.
