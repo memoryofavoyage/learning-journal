@@ -13,8 +13,13 @@ i've started on my first tutorial.
 i did need a bit of assistance on making the scripts.
 
 29/10/2024
-my friend isaac is sick today. :-(
+my friends isaac and phoebe are sick today. :-(
 i hope my unity project saved properly on one drive.
 it did. we just did our stand up meeting.
 and with paul's help i finished my first tutorial.
 starting on my second one.
+
+05/11/2024
+my friends are in
+we did stand up meeting
+paul helped me with my tutorial because it wasn't clikcing on the square we had to change the z value
