@@ -20,6 +20,6 @@ and with paul's help i finished my first tutorial.
 starting on my second one.
 
 05/11/2024
-my friends are in
-we did stand up meeting
-paul helped me with my tutorial because it wasn't clikcing on the square we had to change the z value
+my friends are in.
+we did stand up meeting.
+paul helped me with my tutorial because it wasn't clicking on the square we had to change the z value.
