@@ -23,3 +23,7 @@ starting on my second one.
 my friends are in.
 we did stand up meeting.
 paul helped me with my tutorial because it wasn't clicking on the square we had to change the z value.
+
+06/11/2024
+we decided to do a study session in the games lab.
+i'm a bit stuck on how you make a sprite move across the screen and stop at a certain point.
