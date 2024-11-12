@@ -27,3 +27,8 @@ paul helped me with my tutorial because it wasn't clicking on the square we had 
 06/11/2024
 we decided to do a study session in the games lab.
 i'm a bit stuck on how you make a sprite move across the screen and stop at a certain point.
+
+12/11/2024
+isaac's not in. 
+me and phoebe kinda got distracted.
+i kinda need help i don't know how to do this code.
