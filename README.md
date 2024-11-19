@@ -1,34 +1,38 @@
 # learning-journal
-my programmer's log
+My programmer's log
 
 15/10/2024
-the lesson began with a review of last week. 
-then, we learnt how to create a repository and started our learning journals. 
-we learnt the anatomy of a script and then we were given tutorial tips.
-it can be difficult to remember the anatomy of a script.
+The lesson began with a review of last week. 
+Then, we learnt how to create a repository and started our learning journals. 
+We learnt the anatomy of a script and then we were given tutorial tips.
+It can be difficult to remember the anatomy of a script.
 
 22/10/2024
-i've sorted out what i'm going to do for each tutorial.
-i've started on my first tutorial.
-i did need a bit of assistance on making the scripts.
+I've sorted out what i'm going to do for each tutorial.
+I've started on my first tutorial.
+I did need a bit of assistance on making the scripts.
 
 29/10/2024
-my friends isaac and phoebe are sick today. :-(
-i hope my unity project saved properly on one drive.
-it did. we just did our stand up meeting.
-and with paul's help i finished my first tutorial.
-starting on my second one.
+My friends Isaac and Phoebe are sick today. :-(
+I hope my unity project saved properly on one drive.
+It did. We just did our stand up meeting.
+And with paul's help I finished my first tutorial.
+Starting on my second one.
 
 05/11/2024
-my friends are in.
-we did stand up meeting.
-paul helped me with my tutorial because it wasn't clicking on the square we had to change the z value.
+My friends are in.
+We did stand up meeting.
+Paul helped me with my tutorial because it wasn't clicking on the square we had to change the z value.
 
 06/11/2024
-we decided to do a study session in the games lab.
-i'm a bit stuck on how you make a sprite move across the screen and stop at a certain point.
+We decided to do a study session in the games lab.
+I'm a bit stuck on how you make a sprite move across the screen and stop at a certain point.
 
 12/11/2024
-isaac's not in. 
-me and phoebe kinda got distracted.
-i kinda need help i don't know how to do this code.
+Isaac's not in. 
+Me and Phoebe kinda got distracted.
+I kinda need help I don't know how to do this code.
+He helped me now I just need to explain the scripts.
+
+19/11/2024
+
