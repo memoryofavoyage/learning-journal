@@ -16,7 +16,7 @@ I did need a bit of assistance on making the scripts.
 My friends Isaac and Phoebe are sick today. :-(
 I hope my unity project saved properly on one drive.
 It did. We just did our stand up meeting.
-And with paul's help I finished my first tutorial.
+And with Paul's help I finished my first tutorial.
 Starting on my second one.
 
 05/11/2024
