@@ -23,5 +23,5 @@ Isaac's not in. Me and Phoebe kinda got distracted. I kinda need help I don't kn
 We did not work on tutorials this lesson.
 
 26/11/2024
-I started drawing assets before class for the prototype, nothing fancy but I think it's required so that the prototype really seems like a kind of game.
+I started drawing assets before class for the prototype, nothing fancy but I think it's required so that the prototype really seems like a kind of game. In class, I finished my last tutorial and then started on my prototype.
 
