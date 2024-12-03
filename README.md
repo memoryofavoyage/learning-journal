@@ -25,3 +25,6 @@ We did not work on tutorials this lesson.
 26/11/2024
 I started drawing assets before class for the prototype, nothing fancy but I think it's required so that the prototype really seems like a kind of game. In class, I finished my last tutorial and then started on my prototype.
 
+03/12/2024
+Today I'm working on the prototype again, we had to fix an issue where I accidentally saved projects inside of projects because it was giving an error due to that. After fixing that, I needed assistance as all the objects were being disabled instead of using the SetActive feature so if you clicked where the objects are it would still interact with it. Also, it would not allow you to exit out of the main page and reopen it because I didn't script it to reopen. We have now made it so that most objects are using SetActive but currently an issue is with the back button which I'm trying to ammend. Currently everything is working as it should be. I'm now thinking of what to implement next, maybe the tutorial where the stick figure slides across the screen, but I might add an actual asset for that.
+
